@@ -1,0 +1,8 @@
+C:\Users\DELL\Source\Repos\Sistema de prestamos\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\DELL\Source\Repos\Sistema de prestamos\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\DELL\Source\Repos\Sistema de prestamos\Capa_Datos\bin\Debug\Capa_Entidad.dll
+C:\Users\DELL\Source\Repos\Sistema de prestamos\Capa_Datos\bin\Debug\Capa_Entidad.pdb
+C:\Users\DELL\Source\Repos\Sistema de prestamos\Capa_Datos\obj\Debug\Capa_Datos.csprojAssemblyReference.cache
+C:\Users\DELL\Source\Repos\Sistema de prestamos\Capa_Datos\obj\Debug\Capa_Datos.csproj.CopyComplete
+C:\Users\DELL\Source\Repos\Sistema de prestamos\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\DELL\Source\Repos\Sistema de prestamos\Capa_Datos\obj\Debug\Capa_Datos.pdb
